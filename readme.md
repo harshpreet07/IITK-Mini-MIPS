@@ -1,4 +1,5 @@
 IITK-Mini-MIPS
+
 This project has been submitted by Harshpreet Kaur(230464) and Chatla Sowmya Sri (200293)
 
 IITK-Mini-MIPS is a simulation tool built to interpret and execute MIPS assembly code. It models the behavior of a processor using a 5-stage pipeline architecture as a reference framework, but executes instructions in a step-by-step manner. This project serves as an educational model to explore how different stages of instruction processing work in modern processors.
